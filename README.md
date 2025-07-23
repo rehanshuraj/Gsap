@@ -1,2 +1,2 @@
 # Gsap
-ui-animation on web dev
+greensock animation platfrom
